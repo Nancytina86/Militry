@@ -15,7 +15,7 @@ It provides an interactive **Streamlit** interface for easy testing.
 ---
 
 ## 📥 Model Download
-The trained YOLO model (~150 MB) is stored on Google Drive:  
+The trained YOLO model (~100 MB) is stored on Google Drive:  
 
 👉 [Download epoch199.pt](https://drive.google.com/file/d/1gvLNAqZlfWguTSMm3dZ3kgRZg0pfbiI3/view?usp=sharing)
 
