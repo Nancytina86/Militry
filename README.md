@@ -20,4 +20,4 @@ The trained YOLO model (~100 MB) is stored on Google Drive:
 👉 [Download epoch199.pt](https://drive.google.com/file/d/1gvLNAqZlfWguTSMm3dZ3kgRZg0pfbiI3/view?usp=sharing)
 
 
-After downloading, place it inside your project folder like this:
+
